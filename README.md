@@ -1,6 +1,7 @@
 # hello-world
 Another new idea
+
 Hi people!!
 
-naturally i learn to operate with devices without muc supervision.
-i really need a liitle push to make the best out of it.
+Naturally I learn to operate with devices without much supervision.
+I am not familiar with github, so I want to master its relevance while working with teams on COVID-19 pandemic.
